@@ -1,4 +1,4 @@
-# Tenzies App
+# Tenzies App - [Visit Here](https://magnificent-semolina-30bd0b.netlify.app/)
 
 ```
 Roll until all dice are the same. Click each die to freeze it at its current value between rolls.
